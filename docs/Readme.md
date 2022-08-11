@@ -41,3 +41,4 @@ requests
 - improve logging
 - add unit tests
 - Verify on CLI level enums of -f parameter
+- Change confog.py to TOML = de facto standardized format for config files
