@@ -31,7 +31,7 @@ Tested on 3.9
 ### Requirements
 
 jmespath,
-matplotlib
+matplotlib,
 requests
 
 ### Improvements
