@@ -32,6 +32,7 @@ Tested on 3.9
 
 jmespath,
 matplotlib
+requests
 
 ### Improvements
 
