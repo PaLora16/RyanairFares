@@ -42,3 +42,4 @@ requests
 - add unit tests
 - Verify on CLI level enums of -f parameter
 - Change config.py to TOML = de facto standardized format for config files
+- Rearange module imports using isort
